@@ -67,7 +67,7 @@ declare -r tmux_first_window_num="1";
 # =================================================
 # Defaults to neovim
 # Supported value(s): emacs, helix, neovim
-: "${DOTFILES_EDITOR:=emacs}";
+: "${DOTFILES_EDITOR:=neovim}";
 # =================================================
 # = EDITOR PRESET                                 =
 # =================================================
